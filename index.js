@@ -69,7 +69,7 @@
 // let arr=["tp",34,true,null]
 // console.log(arr.length)
 // arr.pop()
-// arr.push("isha")
+// arr.push("qwer")
 // console.log(arr)
 // arr.shift()
 // console.log(arr)
@@ -82,7 +82,7 @@
 // console.log(arr)
 
 
-// str="isha is good good"
+// str="qwer is good good"
 // console.log(str.length)
 // console.log(str.indexOf("is"))
 // console.log(str.lastIndexOf("good"))
